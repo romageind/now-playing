@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Now Playing
+Comment=Microphone-driven music recognition and synchronized lyrics
+Exec=AppRun
+Icon=nowplaying
+Categories=AudioVideo;Audio;Player;
+Terminal=true

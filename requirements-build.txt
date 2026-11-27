@@ -1,0 +1,10 @@
+# Runtime dependencies
+aiohttp
+aiohttp-retry
+numpy
+sounddevice
+syncedlyrics
+shazamio
+imageio-ffmpeg
+# Build tool
+pyinstaller>=6.10,<7
